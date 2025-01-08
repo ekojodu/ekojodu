@@ -33,9 +33,6 @@ Each project represents a different facet of my skill set—whether it's front-e
 
 One of my greatest strengths is problem-solving. I have a strong inclination towards identifying issues in both code and process, and I enjoy creating innovative solutions to streamline workflows. Whether it's debugging a tricky issue, optimizing code, or automating tasks to save time, I thrive on challenges and delivering solutions that add value.
 
-Some tools and techniques I frequently use for automation:
-
-- **JavaScript**: Automating repetitive tasks with JavaScript
 
 ---
 
