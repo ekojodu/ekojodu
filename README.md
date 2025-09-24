@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Daniel Ukpele
 
-### 🚀 Full Stack Developer (JavaScript, Flutter)
+### 🚀 Full Stack Developer (JavaScript)
 
 Welcome to my GitHub profile! With almost 2 years of coding experience and 8 months as a full-stack developer, I’m passionate about creating impactful, responsive, and scalable web applications. Over the years, I've gained extensive knowledge in JavaScript programming languages, tools, and frameworks. I am committed to continuous learning and improvement, staying up-to-date with industry trends to deliver the best possible solutions.
 
